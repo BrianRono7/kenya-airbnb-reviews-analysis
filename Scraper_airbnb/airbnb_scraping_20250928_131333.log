@@ -1,0 +1,1161 @@
+2025-09-28 13:13:33,148 - INFO - 🚀 STARTING COMPLETE AIRBNB SCRAPING PROCESS
+2025-09-28 13:13:33,148 - INFO - Output directory: airbnb_data_20250928_131333
+2025-09-28 13:13:33,148 - INFO - === STEP 1: Discovering Locations ===
+2025-09-28 13:13:33,148 - INFO - ====== WebDriver manager ======
+2025-09-28 13:13:34,334 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:34,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:35,204 - INFO - There is no [mac64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+2025-09-28 13:13:35,519 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:36,638 - INFO - WebDriver version 140.0.7339.207 selected
+2025-09-28 13:13:36,642 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-28 13:13:36,642 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/mac-arm64/chromedriver-mac-arm64.zip
+2025-09-28 13:13:38,094 - INFO - Driver downloading response is 200
+2025-09-28 13:13:40,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:40,816 - INFO - Driver has been saved in cache [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207]
+2025-09-28 13:13:52,013 - INFO - Discovered 3 locations
+2025-09-28 13:13:52,014 - INFO - Locations saved to: airbnb_data_20250928_131333/step1_locations.csv
+2025-09-28 13:13:52,114 - INFO - === STEP 2: Extracting Listings for All Locations ===
+2025-09-28 13:13:52,114 - INFO - 
+--- Processing Location 1/3: Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:13:52,114 - INFO - Search URL: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:13:52,115 - INFO - ====== WebDriver manager ======
+2025-09-28 13:13:52,508 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:52,791 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:13:53,445 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:13:54,837 - INFO - Starting scrape of all pages from: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:14:18,087 - INFO - No translation popup found.
+2025-09-28 13:14:18,101 - INFO - Scraping page 1
+2025-09-28 13:14:18,106 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:14:18,151 - INFO - Found 18 listings on current page
+2025-09-28 13:14:19,014 - INFO - Processed 10 listings...
+2025-09-28 13:14:19,671 - INFO - Total listings collected so far: 18
+2025-09-28 13:14:19,679 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:22,491 - INFO - Scraping page 2
+2025-09-28 13:14:22,551 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:22,573 - INFO - Found 18 listings on current page
+2025-09-28 13:14:23,730 - INFO - Processed 10 listings...
+2025-09-28 13:14:24,519 - INFO - Total listings collected so far: 36
+2025-09-28 13:14:24,524 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjozNiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:27,515 - INFO - Scraping page 3
+2025-09-28 13:14:27,523 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjozNiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:27,531 - INFO - Found 18 listings on current page
+2025-09-28 13:14:28,512 - INFO - Processed 10 listings...
+2025-09-28 13:14:29,172 - INFO - Total listings collected so far: 54
+2025-09-28 13:14:29,177 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo1NCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:31,943 - INFO - Scraping page 4
+2025-09-28 13:14:31,948 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo1NCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:31,962 - INFO - Found 18 listings on current page
+2025-09-28 13:14:32,930 - INFO - Processed 10 listings...
+2025-09-28 13:14:33,593 - INFO - Total listings collected so far: 72
+2025-09-28 13:14:33,598 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo3MiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:36,834 - INFO - Scraping page 5
+2025-09-28 13:14:36,840 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo3MiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:36,848 - INFO - Found 18 listings on current page
+2025-09-28 13:14:37,809 - INFO - Processed 10 listings...
+2025-09-28 13:14:38,459 - INFO - Total listings collected so far: 90
+2025-09-28 13:14:38,464 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo5MCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:41,298 - INFO - Scraping page 6
+2025-09-28 13:14:41,307 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo5MCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:14:41,315 - INFO - Found 18 listings on current page
+2025-09-28 13:14:42,288 - INFO - Processed 10 listings...
+2025-09-28 13:14:42,947 - INFO - Total listings collected so far: 108
+2025-09-28 13:14:42,953 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMDgsInZlcnNpb24iOjF9
+2025-09-28 13:14:45,853 - INFO - Scraping page 7
+2025-09-28 13:14:45,858 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMDgsInZlcnNpb24iOjF9
+2025-09-28 13:14:45,865 - INFO - Found 18 listings on current page
+2025-09-28 13:14:46,826 - INFO - Processed 10 listings...
+2025-09-28 13:14:47,485 - INFO - Total listings collected so far: 126
+2025-09-28 13:14:47,490 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMjYsInZlcnNpb24iOjF9
+2025-09-28 13:14:50,449 - INFO - Scraping page 8
+2025-09-28 13:14:50,456 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMjYsInZlcnNpb24iOjF9
+2025-09-28 13:14:50,464 - INFO - Found 18 listings on current page
+2025-09-28 13:14:51,432 - INFO - Processed 10 listings...
+2025-09-28 13:14:52,091 - INFO - Total listings collected so far: 144
+2025-09-28 13:14:52,096 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNDQsInZlcnNpb24iOjF9
+2025-09-28 13:14:54,984 - INFO - Scraping page 9
+2025-09-28 13:14:54,990 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNDQsInZlcnNpb24iOjF9
+2025-09-28 13:14:54,999 - INFO - Found 18 listings on current page
+2025-09-28 13:14:55,973 - INFO - Processed 10 listings...
+2025-09-28 13:14:56,641 - INFO - Total listings collected so far: 162
+2025-09-28 13:14:56,647 - INFO - Navigating to next page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNjIsInZlcnNpb24iOjF9
+2025-09-28 13:14:59,519 - INFO - Scraping page 10
+2025-09-28 13:14:59,524 - INFO - Scraping current page: https://www.airbnb.com/s/Kisumu-County/homes?place_id=ChIJ3_PD7Z-lKhgR71EwTssPkhY&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kisumu%20County&pagination_search=true&federated_search_session_id=1bb269ab-8433-46b7-8429-803426a96eda&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNjIsInZlcnNpb24iOjF9
+2025-09-28 13:14:59,532 - INFO - Found 18 listings on current page
+2025-09-28 13:15:00,500 - INFO - Processed 10 listings...
+2025-09-28 13:15:01,157 - INFO - Total listings collected so far: 180
+2025-09-28 13:15:01,158 - INFO - Reached maximum page limit: 10
+2025-09-28 13:15:01,158 - INFO - Scraping completed. Total listings: 180
+2025-09-28 13:15:01,158 - INFO - Collected 180 listings for Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3
+2025-09-28 13:15:01,158 - INFO - Total listings so far: 180
+2025-09-28 13:15:03,338 - INFO - 
+--- Processing Location 4/3: Mombasa
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Mombasa
+KSh 4 ---
+2025-09-28 13:15:03,339 - INFO - Search URL: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:15:03,339 - INFO - ====== WebDriver manager ======
+2025-09-28 13:15:03,868 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:15:04,159 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:15:04,477 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:15:05,617 - INFO - Starting scrape of all pages from: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:15:25,322 - INFO - No translation popup found.
+2025-09-28 13:15:25,336 - INFO - Scraping page 1
+2025-09-28 13:15:25,340 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=FLEXIBLE_DATES&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:15:25,359 - INFO - Found 18 listings on current page
+2025-09-28 13:15:26,261 - INFO - Processed 10 listings...
+2025-09-28 13:15:26,937 - INFO - Total listings collected so far: 18
+2025-09-28 13:15:26,945 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:29,865 - INFO - Scraping page 2
+2025-09-28 13:15:29,878 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:29,902 - INFO - Found 18 listings on current page
+2025-09-28 13:15:30,804 - INFO - Processed 10 listings...
+2025-09-28 13:15:31,470 - INFO - Total listings collected so far: 36
+2025-09-28 13:15:31,477 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjozNiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:34,496 - INFO - Scraping page 3
+2025-09-28 13:15:34,504 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjozNiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:34,518 - INFO - Found 18 listings on current page
+2025-09-28 13:15:35,415 - INFO - Processed 10 listings...
+2025-09-28 13:15:36,138 - INFO - Total listings collected so far: 54
+2025-09-28 13:15:36,145 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo1NCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:39,010 - INFO - Scraping page 4
+2025-09-28 13:15:39,023 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo1NCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:42,244 - INFO - Found 18 listings on current page
+2025-09-28 13:15:43,438 - INFO - Processed 10 listings...
+2025-09-28 13:15:44,220 - INFO - Total listings collected so far: 72
+2025-09-28 13:15:44,227 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo3MiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:47,099 - INFO - Scraping page 5
+2025-09-28 13:15:47,115 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo3MiwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:47,131 - INFO - Found 18 listings on current page
+2025-09-28 13:15:48,116 - INFO - Processed 10 listings...
+2025-09-28 13:15:48,776 - INFO - Total listings collected so far: 90
+2025-09-28 13:15:48,782 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo5MCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:51,603 - INFO - Scraping page 6
+2025-09-28 13:15:51,608 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0Ijo5MCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:15:51,621 - INFO - Found 18 listings on current page
+2025-09-28 13:15:52,600 - INFO - Processed 10 listings...
+2025-09-28 13:15:53,302 - INFO - Total listings collected so far: 108
+2025-09-28 13:15:53,309 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMDgsInZlcnNpb24iOjF9
+2025-09-28 13:15:56,183 - INFO - Scraping page 7
+2025-09-28 13:15:56,189 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMDgsInZlcnNpb24iOjF9
+2025-09-28 13:15:56,201 - INFO - Found 18 listings on current page
+2025-09-28 13:15:57,180 - INFO - Processed 10 listings...
+2025-09-28 13:15:57,833 - INFO - Total listings collected so far: 126
+2025-09-28 13:15:57,838 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMjYsInZlcnNpb24iOjF9
+2025-09-28 13:16:00,666 - INFO - Scraping page 8
+2025-09-28 13:16:00,674 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxMjYsInZlcnNpb24iOjF9
+2025-09-28 13:16:00,688 - INFO - Found 18 listings on current page
+2025-09-28 13:16:01,674 - INFO - Processed 10 listings...
+2025-09-28 13:16:02,325 - INFO - Total listings collected so far: 144
+2025-09-28 13:16:02,332 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNDQsInZlcnNpb24iOjF9
+2025-09-28 13:16:05,231 - INFO - Scraping page 9
+2025-09-28 13:16:05,240 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNDQsInZlcnNpb24iOjF9
+2025-09-28 13:16:05,248 - INFO - Found 18 listings on current page
+2025-09-28 13:16:06,276 - INFO - Processed 10 listings...
+2025-09-28 13:16:07,021 - INFO - Total listings collected so far: 162
+2025-09-28 13:16:07,028 - INFO - Navigating to next page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNjIsInZlcnNpb24iOjF9
+2025-09-28 13:16:10,052 - INFO - Scraping page 10
+2025-09-28 13:16:10,059 - INFO - Scraping current page: https://www.airbnb.com/s/Mombasa/homes?place_id=ChIJM45ffcMMQBgRLEF4BSSBr7A&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=weekend_trip&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=flexible_dates&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Mombasa&pagination_search=true&federated_search_session_id=74f35577-d327-4ee5-bfe8-a439871d2faa&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxNjIsInZlcnNpb24iOjF9
+2025-09-28 13:16:10,071 - INFO - Found 18 listings on current page
+2025-09-28 13:16:10,970 - INFO - Processed 10 listings...
+2025-09-28 13:16:11,685 - INFO - Total listings collected so far: 180
+2025-09-28 13:16:11,685 - INFO - Reached maximum page limit: 10
+2025-09-28 13:16:11,685 - INFO - Scraping completed. Total listings: 180
+2025-09-28 13:16:11,686 - INFO - Collected 180 listings for Mombasa
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Mombasa
+KSh 4
+2025-09-28 13:16:11,686 - INFO - Total listings so far: 360
+2025-09-28 13:16:13,845 - INFO - 
+--- Processing Location 7/3: Kiambu next weekend
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Ruaka
+KSh 7 ---
+2025-09-28 13:16:13,845 - INFO - Search URL: https://www.airbnb.com/s/Kiambu/homes?place_id=ChIJzzbxsmA2LxgRaR7dqAnEjOY&refinement_paths%5B%5D=%2Fhomes&date_picker_type=CALENDAR&checkin=2025-10-03&checkout=2025-10-05&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:16:13,845 - INFO - ====== WebDriver manager ======
+2025-09-28 13:16:14,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:16:14,614 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:16:14,926 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:16:16,098 - INFO - Starting scrape of all pages from: https://www.airbnb.com/s/Kiambu/homes?place_id=ChIJzzbxsmA2LxgRaR7dqAnEjOY&refinement_paths%5B%5D=%2Fhomes&date_picker_type=CALENDAR&checkin=2025-10-03&checkout=2025-10-05&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:16:36,204 - INFO - No translation popup found.
+2025-09-28 13:16:36,218 - INFO - Scraping page 1
+2025-09-28 13:16:36,223 - INFO - Scraping current page: https://www.airbnb.com/s/Kiambu/homes?place_id=ChIJzzbxsmA2LxgRaR7dqAnEjOY&refinement_paths%5B%5D=%2Fhomes&date_picker_type=CALENDAR&checkin=2025-10-03&checkout=2025-10-05&search_type=HOMEPAGE_CAROUSEL_CLICK&flexible_trip_lengths[]=weekend_trip&date_picker_type=flexible_dates&search_type=user_map_move&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE
+2025-09-28 13:16:36,244 - INFO - Found 24 listings on current page
+2025-09-28 13:16:37,285 - INFO - Processed 10 listings...
+2025-09-28 13:16:38,242 - INFO - Processed 20 listings...
+2025-09-28 13:16:38,589 - INFO - Total listings collected so far: 24
+2025-09-28 13:16:38,598 - INFO - Navigating to next page: https://www.airbnb.com/s/Kiambu/homes?place_id=ChIJzzbxsmA2LxgRaR7dqAnEjOY&refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2025-10-03&checkout=2025-10-05&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&flexible_trip_lengths%5B%5D=weekend_trip&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kiambu&federated_search_session_id=b9ac63ee-d75d-416c-a1da-08cd8b1e9902&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:16:41,691 - INFO - Scraping page 2
+2025-09-28 13:16:41,698 - INFO - Scraping current page: https://www.airbnb.com/s/Kiambu/homes?place_id=ChIJzzbxsmA2LxgRaR7dqAnEjOY&refinement_paths%5B%5D=%2Fhomes&date_picker_type=calendar&checkin=2025-10-03&checkout=2025-10-05&search_type%5B%5D=HOMEPAGE_CAROUSEL_CLICK&search_type%5B%5D=user_map_move&flexible_trip_lengths%5B%5D=weekend_trip&monthly_start_date=2025-10-01&monthly_length=3&monthly_end_date=2026-01-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=2&channel=EXPLORE&query=Kiambu&federated_search_session_id=b9ac63ee-d75d-416c-a1da-08cd8b1e9902&pagination_search=true&cursor=eyJzZWN0aW9uX29mZnNldCI6MCwiaXRlbXNfb2Zmc2V0IjoxOCwidmVyc2lvbiI6MX0%3D
+2025-09-28 13:16:57,180 - WARNING - No listings found on current page
+2025-09-28 13:16:57,182 - INFO - Total listings collected so far: 24
+2025-09-28 13:16:57,190 - INFO - No more pages found
+2025-09-28 13:16:57,190 - INFO - Scraping completed. Total listings: 24
+2025-09-28 13:16:57,190 - INFO - Collected 24 listings for Kiambu next weekend
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Ruaka
+KSh 7
+2025-09-28 13:16:57,190 - INFO - Total listings so far: 384
+2025-09-28 13:16:59,347 - INFO - Total listings collected: 384
+2025-09-28 13:16:59,347 - INFO - Listings saved to: airbnb_data_20250928_131333/step2_listings.csv
+2025-09-28 13:16:59,348 - INFO - === STEP 3: Extracting Reviews for All Listings ===
+2025-09-28 13:16:59,351 - INFO - Processing reviews for 384 valid listings
+2025-09-28 13:16:59,351 - INFO - 
+--- Processing Listing 1/384: 1471196943830109415 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:16:59,352 - INFO - ====== WebDriver manager ======
+2025-09-28 13:16:59,831 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:17:00,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:17:00,462 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:17:43,509 - WARNING - No reviews found for property 1471196943830109415
+2025-09-28 13:17:43,642 - INFO - Progress: 0 successful, 1 failed
+2025-09-28 13:17:44,648 - INFO - 
+--- Processing Listing 2/384: 1188235911014047903 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:17:44,650 - INFO - ====== WebDriver manager ======
+2025-09-28 13:17:45,161 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:17:45,452 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:17:45,765 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:18:31,971 - INFO - Collected 22 reviews for property 1188235911014047903
+2025-09-28 13:18:32,107 - INFO - Progress: 1 successful, 1 failed
+2025-09-28 13:18:33,113 - INFO - 
+--- Processing Listing 3/384: 602851192342831352 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:18:33,114 - INFO - ====== WebDriver manager ======
+2025-09-28 13:18:33,941 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:18:34,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:18:34,530 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:19:08,461 - INFO - Collected 69 reviews for property 602851192342831352
+2025-09-28 13:19:08,602 - INFO - Progress: 2 successful, 1 failed
+2025-09-28 13:19:09,608 - INFO - 
+--- Processing Listing 4/384: 753337240571344470 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:19:09,609 - INFO - ====== WebDriver manager ======
+2025-09-28 13:19:10,139 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:19:10,425 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:19:10,738 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:19:43,942 - INFO - Collected 51 reviews for property 753337240571344470
+2025-09-28 13:19:44,065 - INFO - Progress: 3 successful, 1 failed
+2025-09-28 13:19:45,071 - INFO - 
+--- Processing Listing 5/384: 1507916426590161473 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:19:45,072 - INFO - ====== WebDriver manager ======
+2025-09-28 13:19:45,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:19:45,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:19:46,193 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:20:32,260 - WARNING - No reviews found for property 1507916426590161473
+2025-09-28 13:20:32,389 - INFO - Progress: 3 successful, 2 failed
+2025-09-28 13:20:33,396 - INFO - 
+--- Processing Listing 6/384: 1313233850714402624 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:20:33,397 - INFO - ====== WebDriver manager ======
+2025-09-28 13:20:33,925 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:20:34,214 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:20:34,527 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:21:20,999 - INFO - Collected 9 reviews for property 1313233850714402624
+2025-09-28 13:21:21,118 - INFO - Progress: 4 successful, 2 failed
+2025-09-28 13:21:22,124 - INFO - 
+--- Processing Listing 7/384: 1467228695532436470 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:21:22,125 - INFO - ====== WebDriver manager ======
+2025-09-28 13:21:22,644 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:21:22,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:21:23,253 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:22:06,167 - WARNING - No reviews found for property 1467228695532436470
+2025-09-28 13:22:06,298 - INFO - Progress: 4 successful, 3 failed
+2025-09-28 13:22:07,305 - INFO - 
+--- Processing Listing 8/384: 1219398139452851258 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:22:07,305 - INFO - ====== WebDriver manager ======
+2025-09-28 13:22:07,822 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:22:08,112 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:22:08,428 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:22:36,259 - INFO - Collected 20 reviews for property 1219398139452851258
+2025-09-28 13:22:36,388 - INFO - Progress: 5 successful, 3 failed
+2025-09-28 13:22:37,399 - INFO - 
+--- Processing Listing 9/384: 1097142472444766631 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:22:37,400 - INFO - ====== WebDriver manager ======
+2025-09-28 13:22:37,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:22:38,216 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:22:38,534 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:23:05,817 - INFO - Collected 22 reviews for property 1097142472444766631
+2025-09-28 13:23:05,949 - INFO - Progress: 6 successful, 3 failed
+2025-09-28 13:23:06,960 - INFO - 
+--- Processing Listing 10/384: 1294622134999747650 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:23:06,961 - INFO - ====== WebDriver manager ======
+2025-09-28 13:23:07,494 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:23:07,788 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:23:08,110 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:23:53,279 - INFO - Collected 11 reviews for property 1294622134999747650
+2025-09-28 13:23:53,416 - INFO - Progress: 7 successful, 3 failed
+2025-09-28 13:23:54,427 - INFO - 
+--- Processing Listing 11/384: 45589321 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:23:54,428 - INFO - ====== WebDriver manager ======
+2025-09-28 13:23:54,961 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:23:55,249 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:23:55,563 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:24:30,767 - INFO - Collected 74 reviews for property 45589321
+2025-09-28 13:24:30,890 - INFO - Progress: 8 successful, 3 failed
+2025-09-28 13:24:31,901 - INFO - 
+--- Processing Listing 12/384: 43988178 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:24:31,902 - INFO - ====== WebDriver manager ======
+2025-09-28 13:24:32,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:24:32,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:24:33,015 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:24:57,995 - WARNING - No reviews found for property 43988178
+2025-09-28 13:24:58,121 - INFO - Progress: 8 successful, 4 failed
+2025-09-28 13:24:59,128 - INFO - 
+--- Processing Listing 13/384: 619379611297294985 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:24:59,129 - INFO - ====== WebDriver manager ======
+2025-09-28 13:24:59,583 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:24:59,857 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:25:00,145 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:25:50,188 - INFO - Collected 30 reviews for property 619379611297294985
+2025-09-28 13:25:50,328 - INFO - Progress: 9 successful, 4 failed
+2025-09-28 13:25:51,334 - INFO - 
+--- Processing Listing 14/384: 1095291126169579847 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:25:51,336 - INFO - ====== WebDriver manager ======
+2025-09-28 13:25:51,808 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:25:52,090 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:25:52,399 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:26:25,268 - INFO - Collected 31 reviews for property 1095291126169579847
+2025-09-28 13:26:25,403 - INFO - Progress: 10 successful, 4 failed
+2025-09-28 13:26:26,408 - INFO - 
+--- Processing Listing 15/384: 1471219351799657816 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:26:26,409 - INFO - ====== WebDriver manager ======
+2025-09-28 13:26:26,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:26:27,041 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:26:27,344 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:27:10,713 - WARNING - No reviews found for property 1471219351799657816
+2025-09-28 13:27:10,839 - INFO - Progress: 10 successful, 5 failed
+2025-09-28 13:27:11,846 - INFO - 
+--- Processing Listing 16/384: 1221202806591012043 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:27:11,847 - INFO - ====== WebDriver manager ======
+2025-09-28 13:27:12,353 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:27:12,642 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:27:12,954 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:27:59,541 - INFO - Collected 17 reviews for property 1221202806591012043
+2025-09-28 13:27:59,662 - INFO - Progress: 11 successful, 5 failed
+2025-09-28 13:28:00,668 - INFO - 
+--- Processing Listing 17/384: 1117239543489265345 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:28:00,669 - INFO - ====== WebDriver manager ======
+2025-09-28 13:28:01,209 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:28:01,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:28:01,814 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:28:29,841 - INFO - Collected 22 reviews for property 1117239543489265345
+2025-09-28 13:28:29,962 - INFO - Progress: 12 successful, 5 failed
+2025-09-28 13:28:30,968 - INFO - 
+--- Processing Listing 18/384: 1088153806063474676 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:28:30,968 - INFO - ====== WebDriver manager ======
+2025-09-28 13:28:31,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:28:31,762 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:28:32,076 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:29:42,189 - INFO - Collected 20 reviews for property 1088153806063474676
+2025-09-28 13:29:42,309 - INFO - Progress: 13 successful, 5 failed
+2025-09-28 13:29:43,315 - INFO - 
+--- Processing Listing 19/384: 1484241669488822090 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:29:43,316 - INFO - ====== WebDriver manager ======
+2025-09-28 13:29:43,827 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:29:44,112 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:29:44,427 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:30:27,539 - WARNING - No reviews found for property 1484241669488822090
+2025-09-28 13:30:27,662 - INFO - Progress: 13 successful, 6 failed
+2025-09-28 13:30:28,669 - INFO - 
+--- Processing Listing 20/384: 1325844890258016382 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:30:28,671 - INFO - ====== WebDriver manager ======
+2025-09-28 13:30:29,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:30:29,443 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:30:29,757 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:31:14,331 - WARNING - No reviews found for property 1325844890258016382
+2025-09-28 13:31:14,473 - INFO - Progress: 13 successful, 7 failed
+2025-09-28 13:31:15,480 - INFO - 
+--- Processing Listing 21/384: 1088153806063474676 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:31:15,481 - INFO - ====== WebDriver manager ======
+2025-09-28 13:31:15,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:31:16,258 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:31:16,554 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:32:03,263 - INFO - Collected 20 reviews for property 1088153806063474676
+2025-09-28 13:32:03,401 - INFO - Progress: 14 successful, 7 failed
+2025-09-28 13:32:04,407 - INFO - 
+--- Processing Listing 22/384: 579460083784653409 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:32:04,408 - INFO - ====== WebDriver manager ======
+2025-09-28 13:32:04,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:32:05,203 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:32:05,520 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:32:57,715 - INFO - Collected 78 reviews for property 579460083784653409
+2025-09-28 13:32:57,858 - INFO - Progress: 15 successful, 7 failed
+2025-09-28 13:32:58,877 - INFO - 
+--- Processing Listing 23/384: 1091501130307229971 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:32:58,878 - INFO - ====== WebDriver manager ======
+2025-09-28 13:32:59,331 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:32:59,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:32:59,930 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:33:33,410 - INFO - Collected 26 reviews for property 1091501130307229971
+2025-09-28 13:33:33,546 - INFO - Progress: 16 successful, 7 failed
+2025-09-28 13:33:34,552 - INFO - 
+--- Processing Listing 24/384: 1232582567770044496 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:33:34,553 - INFO - ====== WebDriver manager ======
+2025-09-28 13:33:35,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:33:35,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:33:35,682 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:33:59,702 - WARNING - No reviews found for property 1232582567770044496
+2025-09-28 13:33:59,828 - INFO - Progress: 16 successful, 8 failed
+2025-09-28 13:34:00,834 - INFO - 
+--- Processing Listing 25/384: 1154024913123015635 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:34:00,835 - INFO - ====== WebDriver manager ======
+2025-09-28 13:34:01,350 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:34:01,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:34:01,960 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:34:47,188 - INFO - Collected 18 reviews for property 1154024913123015635
+2025-09-28 13:34:47,309 - INFO - Progress: 17 successful, 8 failed
+2025-09-28 13:34:48,315 - INFO - 
+--- Processing Listing 26/384: 969277753389489511 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:34:48,316 - INFO - ====== WebDriver manager ======
+2025-09-28 13:34:48,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:34:49,129 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:34:49,449 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:35:14,833 - WARNING - No reviews found for property 969277753389489511
+2025-09-28 13:35:14,966 - INFO - Progress: 17 successful, 9 failed
+2025-09-28 13:35:15,972 - INFO - 
+--- Processing Listing 27/384: 1473938106724902700 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:35:15,973 - INFO - ====== WebDriver manager ======
+2025-09-28 13:35:16,506 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:35:16,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:35:17,113 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:36:00,359 - WARNING - No reviews found for property 1473938106724902700
+2025-09-28 13:36:00,482 - INFO - Progress: 17 successful, 10 failed
+2025-09-28 13:36:01,494 - INFO - 
+--- Processing Listing 28/384: 53388675 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:36:01,495 - INFO - ====== WebDriver manager ======
+2025-09-28 13:36:02,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:36:02,318 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:36:02,633 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:36:34,943 - INFO - Collected 29 reviews for property 53388675
+2025-09-28 13:36:35,065 - INFO - Progress: 18 successful, 10 failed
+2025-09-28 13:36:36,076 - INFO - 
+--- Processing Listing 29/384: 1360325532733260874 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:36:36,077 - INFO - ====== WebDriver manager ======
+2025-09-28 13:36:36,619 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:36:36,907 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:36:37,219 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:37:21,198 - INFO - Collected 8 reviews for property 1360325532733260874
+2025-09-28 13:37:21,333 - INFO - Progress: 19 successful, 10 failed
+2025-09-28 13:37:22,344 - INFO - 
+--- Processing Listing 30/384: 1315119445225516293 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:37:22,345 - INFO - ====== WebDriver manager ======
+2025-09-28 13:37:22,833 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:37:23,128 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:37:23,439 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:38:09,981 - INFO - Collected 23 reviews for property 1315119445225516293
+2025-09-28 13:38:10,113 - INFO - Progress: 20 successful, 10 failed
+2025-09-28 13:38:11,124 - INFO - 
+--- Processing Listing 31/384: 848637261044262724 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:38:11,125 - INFO - ====== WebDriver manager ======
+2025-09-28 13:38:11,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:38:11,988 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:38:12,302 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:38:39,660 - INFO - Collected 18 reviews for property 848637261044262724
+2025-09-28 13:38:39,779 - INFO - Progress: 21 successful, 10 failed
+2025-09-28 13:38:40,790 - INFO - 
+--- Processing Listing 32/384: 54388276 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:38:40,791 - INFO - ====== WebDriver manager ======
+2025-09-28 13:38:41,345 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:38:41,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:38:41,948 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:39:27,193 - WARNING - No reviews found for property 54388276
+2025-09-28 13:39:27,319 - INFO - Progress: 21 successful, 11 failed
+2025-09-28 13:39:28,330 - INFO - 
+--- Processing Listing 33/384: 1098392556113751987 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:39:28,331 - INFO - ====== WebDriver manager ======
+2025-09-28 13:39:28,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:39:29,146 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:39:29,464 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:40:14,166 - INFO - Collected 8 reviews for property 1098392556113751987
+2025-09-28 13:40:14,303 - INFO - Progress: 22 successful, 11 failed
+2025-09-28 13:40:15,314 - INFO - 
+--- Processing Listing 34/384: 1518163468198532818 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:40:15,315 - INFO - ====== WebDriver manager ======
+2025-09-28 13:40:15,843 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:40:16,137 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:40:16,464 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:41:02,123 - WARNING - No reviews found for property 1518163468198532818
+2025-09-28 13:41:02,259 - INFO - Progress: 22 successful, 12 failed
+2025-09-28 13:41:03,271 - INFO - 
+--- Processing Listing 35/384: 1426680603136564683 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:41:03,272 - INFO - ====== WebDriver manager ======
+2025-09-28 13:41:03,825 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:41:04,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:41:04,433 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:42:45,694 - INFO - Collected 7 reviews for property 1426680603136564683
+2025-09-28 13:42:45,835 - INFO - Progress: 23 successful, 12 failed
+2025-09-28 13:42:46,842 - INFO - 
+--- Processing Listing 36/384: 1192532960044086120 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:42:46,843 - INFO - ====== WebDriver manager ======
+2025-09-28 13:42:47,299 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:42:47,579 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:42:47,876 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:43:32,023 - WARNING - No reviews found for property 1192532960044086120
+2025-09-28 13:43:32,168 - INFO - Progress: 23 successful, 13 failed
+2025-09-28 13:43:33,175 - INFO - 
+--- Processing Listing 37/384: 1426680603136564683 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:43:33,176 - INFO - ====== WebDriver manager ======
+2025-09-28 13:43:33,679 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:43:33,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:43:34,258 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:44:19,301 - INFO - Collected 7 reviews for property 1426680603136564683
+2025-09-28 13:44:19,446 - INFO - Progress: 24 successful, 13 failed
+2025-09-28 13:44:20,452 - INFO - 
+--- Processing Listing 38/384: 1108653400175760999 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:44:20,453 - INFO - ====== WebDriver manager ======
+2025-09-28 13:44:20,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:44:21,257 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:44:21,573 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:46:50,603 - INFO - Collected 8 reviews for property 1108653400175760999
+2025-09-28 13:46:50,730 - INFO - Progress: 25 successful, 13 failed
+2025-09-28 13:46:51,737 - INFO - 
+--- Processing Listing 39/384: 1495521813650688821 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:46:51,738 - INFO - ====== WebDriver manager ======
+2025-09-28 13:46:52,229 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:46:52,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:46:52,824 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:47:37,338 - WARNING - No reviews found for property 1495521813650688821
+2025-09-28 13:47:37,473 - INFO - Progress: 25 successful, 14 failed
+2025-09-28 13:47:38,480 - INFO - 
+--- Processing Listing 40/384: 1485439261527835982 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:47:38,480 - INFO - ====== WebDriver manager ======
+2025-09-28 13:47:39,024 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:47:39,309 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:47:39,618 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:48:24,548 - WARNING - No reviews found for property 1485439261527835982
+2025-09-28 13:48:24,680 - INFO - Progress: 25 successful, 15 failed
+2025-09-28 13:48:25,687 - INFO - 
+--- Processing Listing 41/384: 872880386310489815 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:48:25,687 - INFO - ====== WebDriver manager ======
+2025-09-28 13:48:26,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:48:26,492 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:48:26,802 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:49:09,927 - WARNING - No reviews found for property 872880386310489815
+2025-09-28 13:49:10,060 - INFO - Progress: 25 successful, 16 failed
+2025-09-28 13:49:11,067 - INFO - 
+--- Processing Listing 42/384: 1243622832062289448 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:49:11,068 - INFO - ====== WebDriver manager ======
+2025-09-28 13:49:11,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:49:11,828 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:49:12,146 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:49:59,368 - INFO - Collected 20 reviews for property 1243622832062289448
+2025-09-28 13:49:59,490 - INFO - Progress: 26 successful, 16 failed
+2025-09-28 13:50:00,496 - INFO - 
+--- Processing Listing 43/384: 28838314 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:50:00,496 - INFO - ====== WebDriver manager ======
+2025-09-28 13:50:01,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:50:01,326 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:50:01,644 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:50:35,849 - INFO - Collected 41 reviews for property 28838314
+2025-09-28 13:50:35,976 - INFO - Progress: 27 successful, 16 failed
+2025-09-28 13:50:36,982 - INFO - 
+--- Processing Listing 44/384: 51090163 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:50:36,983 - INFO - ====== WebDriver manager ======
+2025-09-28 13:50:37,510 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:50:37,799 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:50:38,115 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:51:11,775 - INFO - Collected 61 reviews for property 51090163
+2025-09-28 13:51:11,897 - INFO - Progress: 28 successful, 16 failed
+2025-09-28 13:51:12,903 - INFO - 
+--- Processing Listing 45/384: 949838829963582935 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:51:12,904 - INFO - ====== WebDriver manager ======
+2025-09-28 13:51:13,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:51:13,703 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:51:14,020 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:52:04,488 - INFO - Collected 37 reviews for property 949838829963582935
+2025-09-28 13:52:04,635 - INFO - Progress: 29 successful, 16 failed
+2025-09-28 13:52:05,641 - INFO - 
+--- Processing Listing 46/384: 1403005783410262912 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:52:05,642 - INFO - ====== WebDriver manager ======
+2025-09-28 13:52:06,170 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:52:06,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:52:06,776 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:52:49,928 - WARNING - No reviews found for property 1403005783410262912
+2025-09-28 13:52:50,061 - INFO - Progress: 29 successful, 17 failed
+2025-09-28 13:52:51,067 - INFO - 
+--- Processing Listing 47/384: 1504986489815468268 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:52:51,068 - INFO - ====== WebDriver manager ======
+2025-09-28 13:52:51,591 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:52:51,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:52:52,192 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:53:34,898 - WARNING - No reviews found for property 1504986489815468268
+2025-09-28 13:53:35,038 - INFO - Progress: 29 successful, 18 failed
+2025-09-28 13:53:36,049 - INFO - 
+--- Processing Listing 48/384: 1510599650875596560 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:53:36,049 - INFO - ====== WebDriver manager ======
+2025-09-28 13:53:36,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:53:36,812 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:53:37,135 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:54:02,743 - WARNING - No reviews found for property 1510599650875596560
+2025-09-28 13:54:02,895 - INFO - Progress: 29 successful, 19 failed
+2025-09-28 13:54:03,906 - INFO - 
+--- Processing Listing 49/384: 1513765746062830499 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:54:03,907 - INFO - ====== WebDriver manager ======
+2025-09-28 13:54:04,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:54:04,719 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:54:05,052 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:54:49,423 - WARNING - No reviews found for property 1513765746062830499
+2025-09-28 13:54:49,570 - INFO - Progress: 29 successful, 20 failed
+2025-09-28 13:54:50,577 - INFO - 
+--- Processing Listing 50/384: 1386067372751946503 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:54:50,578 - INFO - ====== WebDriver manager ======
+2025-09-28 13:54:51,026 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:54:51,302 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:54:51,596 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:55:36,388 - INFO - Collected 13 reviews for property 1386067372751946503
+2025-09-28 13:55:36,534 - INFO - Progress: 30 successful, 20 failed
+2025-09-28 13:55:37,540 - INFO - 
+--- Processing Listing 51/384: 1455050884629272834 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:55:37,541 - INFO - ====== WebDriver manager ======
+2025-09-28 13:55:38,041 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:55:38,325 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:55:38,644 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:56:21,776 - WARNING - No reviews found for property 1455050884629272834
+2025-09-28 13:56:21,911 - INFO - Progress: 30 successful, 21 failed
+2025-09-28 13:56:22,918 - INFO - 
+--- Processing Listing 52/384: 47399621 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:56:22,919 - INFO - ====== WebDriver manager ======
+2025-09-28 13:56:23,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:56:23,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:56:24,057 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:58:56,509 - INFO - Collected 24 reviews for property 47399621
+2025-09-28 13:58:56,632 - INFO - Progress: 31 successful, 21 failed
+2025-09-28 13:58:57,639 - INFO - 
+--- Processing Listing 53/384: 1505704620117026372 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:58:57,640 - INFO - ====== WebDriver manager ======
+2025-09-28 13:58:58,164 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:58:58,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:58:58,765 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 13:59:43,633 - WARNING - No reviews found for property 1505704620117026372
+2025-09-28 13:59:43,772 - INFO - Progress: 31 successful, 22 failed
+2025-09-28 13:59:44,779 - INFO - 
+--- Processing Listing 54/384: 1326578114558969379 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 13:59:44,780 - INFO - ====== WebDriver manager ======
+2025-09-28 13:59:45,315 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:59:45,607 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 13:59:45,925 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:00:29,609 - WARNING - No reviews found for property 1326578114558969379
+2025-09-28 14:00:29,733 - INFO - Progress: 31 successful, 23 failed
+2025-09-28 14:00:30,740 - INFO - 
+--- Processing Listing 55/384: 1505704620117026372 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:00:30,741 - INFO - ====== WebDriver manager ======
+2025-09-28 14:00:31,250 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:00:31,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:00:31,847 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:01:15,191 - WARNING - No reviews found for property 1505704620117026372
+2025-09-28 14:01:15,333 - INFO - Progress: 31 successful, 24 failed
+2025-09-28 14:01:16,340 - INFO - 
+--- Processing Listing 56/384: 1326578114558969379 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:01:16,341 - INFO - ====== WebDriver manager ======
+2025-09-28 14:01:16,867 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:01:17,165 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:01:17,481 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:02:02,156 - WARNING - No reviews found for property 1326578114558969379
+2025-09-28 14:02:02,297 - INFO - Progress: 31 successful, 25 failed
+2025-09-28 14:02:03,304 - INFO - 
+--- Processing Listing 57/384: 40105528 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:02:03,305 - INFO - ====== WebDriver manager ======
+2025-09-28 14:02:03,796 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:02:04,099 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:02:04,412 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:03:41,972 - INFO - Collected 24 reviews for property 40105528
+2025-09-28 14:03:42,118 - INFO - Progress: 32 successful, 25 failed
+2025-09-28 14:03:43,124 - INFO - 
+--- Processing Listing 58/384: 1489805377470990946 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:03:43,125 - INFO - ====== WebDriver manager ======
+2025-09-28 14:03:43,624 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:03:43,909 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:03:44,228 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:04:27,066 - WARNING - No reviews found for property 1489805377470990946
+2025-09-28 14:04:27,210 - INFO - Progress: 32 successful, 26 failed
+2025-09-28 14:04:28,216 - INFO - 
+--- Processing Listing 59/384: 1430273393827446924 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:04:28,217 - INFO - ====== WebDriver manager ======
+2025-09-28 14:04:28,740 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:04:29,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:04:29,345 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:05:12,510 - WARNING - No reviews found for property 1430273393827446924
+2025-09-28 14:05:12,651 - INFO - Progress: 32 successful, 27 failed
+2025-09-28 14:05:13,657 - INFO - 
+--- Processing Listing 60/384: 52063781 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:05:13,658 - INFO - ====== WebDriver manager ======
+2025-09-28 14:05:14,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:05:14,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:05:14,995 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:05:40,920 - WARNING - No reviews found for property 52063781
+2025-09-28 14:05:41,045 - INFO - Progress: 32 successful, 28 failed
+2025-09-28 14:05:42,051 - INFO - 
+--- Processing Listing 61/384: 40985009 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:05:42,052 - INFO - ====== WebDriver manager ======
+2025-09-28 14:05:42,557 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:05:42,847 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:05:43,160 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:07:50,786 - INFO - Collected 24 reviews for property 40985009
+2025-09-28 14:07:50,924 - INFO - Progress: 33 successful, 28 failed
+2025-09-28 14:07:51,930 - INFO - 
+--- Processing Listing 62/384: 649195427747137942 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:07:51,931 - INFO - ====== WebDriver manager ======
+2025-09-28 14:07:52,462 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:07:52,767 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:07:53,090 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:08:37,095 - WARNING - No reviews found for property 649195427747137942
+2025-09-28 14:08:37,220 - INFO - Progress: 33 successful, 29 failed
+2025-09-28 14:08:38,226 - INFO - 
+--- Processing Listing 63/384: 1001420609337613533 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:08:38,227 - INFO - ====== WebDriver manager ======
+2025-09-28 14:08:38,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:08:38,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:08:39,249 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:09:06,943 - WARNING - No reviews found for property 1001420609337613533
+2025-09-28 14:09:08,073 - INFO - Progress: 33 successful, 30 failed
+2025-09-28 14:09:09,083 - INFO - 
+--- Processing Listing 64/384: 21659799 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:09:09,084 - INFO - ====== WebDriver manager ======
+2025-09-28 14:09:09,903 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:09:10,188 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:09:10,503 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:11:45,369 - INFO - Collected 44 reviews for property 21659799
+2025-09-28 14:11:45,512 - INFO - Progress: 34 successful, 30 failed
+2025-09-28 14:11:46,514 - INFO - 
+--- Processing Listing 65/384: 1102835387269764666 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:11:46,515 - INFO - ====== WebDriver manager ======
+2025-09-28 14:11:47,023 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:11:47,315 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:11:47,626 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:14:19,592 - INFO - Collected 21 reviews for property 1102835387269764666
+2025-09-28 14:14:19,740 - INFO - Progress: 35 successful, 30 failed
+2025-09-28 14:14:20,746 - INFO - 
+--- Processing Listing 66/384: 602167728028115485 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:14:20,747 - INFO - ====== WebDriver manager ======
+2025-09-28 14:14:21,455 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:14:21,742 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:14:22,062 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:15:05,893 - WARNING - No reviews found for property 602167728028115485
+2025-09-28 14:15:06,028 - INFO - Progress: 35 successful, 31 failed
+2025-09-28 14:15:07,035 - INFO - 
+--- Processing Listing 67/384: 1236367670923222267 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:15:07,036 - INFO - ====== WebDriver manager ======
+2025-09-28 14:15:07,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:15:07,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:15:08,150 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
