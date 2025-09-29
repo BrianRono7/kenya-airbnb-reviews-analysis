@@ -1159,3 +1159,804 @@ KSh 3 ---
 2025-09-28 14:15:07,546 - INFO - Get LATEST chromedriver version for google-chrome
 2025-09-28 14:15:07,840 - INFO - Get LATEST chromedriver version for google-chrome
 2025-09-28 14:15:08,150 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:17:37,655 - INFO - Collected 8 reviews for property 1236367670923222267
+2025-09-28 14:17:37,776 - INFO - Progress: 36 successful, 31 failed
+2025-09-28 14:17:38,782 - INFO - 
+--- Processing Listing 68/384: 1170319210518719613 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:17:38,783 - INFO - ====== WebDriver manager ======
+2025-09-28 14:17:39,266 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:17:39,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:17:39,854 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:18:22,573 - WARNING - No reviews found for property 1170319210518719613
+2025-09-28 14:18:22,702 - INFO - Progress: 36 successful, 32 failed
+2025-09-28 14:18:23,709 - INFO - 
+--- Processing Listing 69/384: 846694271094959201 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:18:23,710 - INFO - ====== WebDriver manager ======
+2025-09-28 14:18:24,219 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:18:24,509 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:18:24,821 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:19:08,021 - WARNING - No reviews found for property 846694271094959201
+2025-09-28 14:19:08,154 - INFO - Progress: 36 successful, 33 failed
+2025-09-28 14:19:09,157 - INFO - 
+--- Processing Listing 70/384: 620982107539339744 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:19:09,158 - INFO - ====== WebDriver manager ======
+2025-09-28 14:19:09,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:19:09,979 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:19:10,287 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:21:42,049 - INFO - Collected 7 reviews for property 620982107539339744
+2025-09-28 14:21:42,173 - INFO - Progress: 37 successful, 33 failed
+2025-09-28 14:21:43,180 - INFO - 
+--- Processing Listing 71/384: 1422301402416376662 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:21:43,182 - INFO - ====== WebDriver manager ======
+2025-09-28 14:21:43,627 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:21:43,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:21:44,226 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:22:10,545 - INFO - Collected 9 reviews for property 1422301402416376662
+2025-09-28 14:22:10,690 - INFO - Progress: 38 successful, 33 failed
+2025-09-28 14:22:11,696 - INFO - 
+--- Processing Listing 72/384: 709247902722617451 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:22:11,697 - INFO - ====== WebDriver manager ======
+2025-09-28 14:22:12,233 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:22:12,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:22:12,838 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:22:41,073 - INFO - Collected 19 reviews for property 709247902722617451
+2025-09-28 14:22:41,196 - INFO - Progress: 39 successful, 33 failed
+2025-09-28 14:22:42,202 - INFO - 
+--- Processing Listing 73/384: 1405017457602961607 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:22:42,202 - INFO - ====== WebDriver manager ======
+2025-09-28 14:22:42,717 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:22:43,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:22:43,313 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:23:26,109 - WARNING - No reviews found for property 1405017457602961607
+2025-09-28 14:23:26,239 - INFO - Progress: 39 successful, 34 failed
+2025-09-28 14:23:27,245 - INFO - 
+--- Processing Listing 74/384: 709247902722617451 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:23:27,245 - INFO - ====== WebDriver manager ======
+2025-09-28 14:23:27,772 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:23:28,061 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:23:28,378 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:23:54,573 - INFO - Collected 19 reviews for property 709247902722617451
+2025-09-28 14:23:54,698 - INFO - Progress: 40 successful, 34 failed
+2025-09-28 14:23:55,704 - INFO - 
+--- Processing Listing 75/384: 1514532118015448174 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:23:55,705 - INFO - ====== WebDriver manager ======
+2025-09-28 14:23:56,210 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:23:56,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:23:56,813 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:24:40,021 - WARNING - No reviews found for property 1514532118015448174
+2025-09-28 14:24:40,167 - INFO - Progress: 40 successful, 35 failed
+2025-09-28 14:24:41,179 - INFO - 
+--- Processing Listing 76/384: 1486788460210050205 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:24:41,179 - INFO - ====== WebDriver manager ======
+2025-09-28 14:24:41,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:24:42,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:24:42,318 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:25:25,558 - WARNING - No reviews found for property 1486788460210050205
+2025-09-28 14:25:25,701 - INFO - Progress: 40 successful, 36 failed
+2025-09-28 14:25:26,713 - INFO - 
+--- Processing Listing 77/384: 53158866 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:25:26,714 - INFO - ====== WebDriver manager ======
+2025-09-28 14:25:27,221 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:25:27,507 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:25:27,826 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:26:20,649 - INFO - Collected 46 reviews for property 53158866
+2025-09-28 14:26:20,793 - INFO - Progress: 41 successful, 36 failed
+2025-09-28 14:26:21,804 - INFO - 
+--- Processing Listing 78/384: 51008996 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:26:21,805 - INFO - ====== WebDriver manager ======
+2025-09-28 14:26:22,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:26:22,632 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:26:22,946 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:28:40,948 - INFO - Collected 24 reviews for property 51008996
+2025-09-28 14:28:41,091 - INFO - Progress: 42 successful, 36 failed
+2025-09-28 14:28:42,097 - INFO - 
+--- Processing Listing 79/384: 1373087028901812472 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:28:42,098 - INFO - ====== WebDriver manager ======
+2025-09-28 14:28:42,629 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:28:43,016 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:28:43,333 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:29:29,464 - INFO - Collected 13 reviews for property 1373087028901812472
+2025-09-28 14:29:29,619 - INFO - Progress: 43 successful, 36 failed
+2025-09-28 14:29:30,621 - INFO - 
+--- Processing Listing 80/384: 1430394482660655737 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:29:30,622 - INFO - ====== WebDriver manager ======
+2025-09-28 14:29:31,127 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:29:31,418 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:29:31,730 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:30:13,995 - WARNING - No reviews found for property 1430394482660655737
+2025-09-28 14:30:14,138 - INFO - Progress: 43 successful, 37 failed
+2025-09-28 14:30:15,144 - INFO - 
+--- Processing Listing 81/384: 1391794145762498966 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:30:15,144 - INFO - ====== WebDriver manager ======
+2025-09-28 14:30:15,675 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:30:15,960 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:30:16,273 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:31:02,505 - INFO - Collected 10 reviews for property 1391794145762498966
+2025-09-28 14:31:02,634 - INFO - Progress: 44 successful, 37 failed
+2025-09-28 14:31:03,641 - INFO - 
+--- Processing Listing 82/384: 675325513153891058 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:31:03,642 - INFO - ====== WebDriver manager ======
+2025-09-28 14:31:04,159 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:31:04,452 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:31:04,768 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:31:50,131 - INFO - Collected 10 reviews for property 675325513153891058
+2025-09-28 14:31:50,277 - INFO - Progress: 45 successful, 37 failed
+2025-09-28 14:31:51,283 - INFO - 
+--- Processing Listing 83/384: 1117167036186955365 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:31:51,284 - INFO - ====== WebDriver manager ======
+2025-09-28 14:31:51,803 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:31:52,095 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:31:52,409 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:32:38,899 - INFO - Collected 17 reviews for property 1117167036186955365
+2025-09-28 14:32:39,023 - INFO - Progress: 46 successful, 37 failed
+2025-09-28 14:32:40,029 - INFO - 
+--- Processing Listing 84/384: 1502946558664800804 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:32:40,030 - INFO - ====== WebDriver manager ======
+2025-09-28 14:32:40,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:32:40,858 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:32:41,167 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:33:04,884 - WARNING - No reviews found for property 1502946558664800804
+2025-09-28 14:33:05,014 - INFO - Progress: 46 successful, 38 failed
+2025-09-28 14:33:06,020 - INFO - 
+--- Processing Listing 85/384: 1090525367872499386 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:33:06,021 - INFO - ====== WebDriver manager ======
+2025-09-28 14:33:06,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:33:06,824 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:33:07,139 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:33:52,540 - INFO - Collected 7 reviews for property 1090525367872499386
+2025-09-28 14:33:52,685 - INFO - Progress: 47 successful, 38 failed
+2025-09-28 14:33:53,696 - INFO - 
+--- Processing Listing 86/384: 1494340472325131509 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:33:53,697 - INFO - ====== WebDriver manager ======
+2025-09-28 14:33:54,244 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:33:54,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:33:54,847 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:34:37,935 - WARNING - No reviews found for property 1494340472325131509
+2025-09-28 14:34:38,076 - INFO - Progress: 47 successful, 39 failed
+2025-09-28 14:34:39,087 - INFO - 
+--- Processing Listing 87/384: 1487704675258849352 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:34:39,088 - INFO - ====== WebDriver manager ======
+2025-09-28 14:34:39,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:34:39,905 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:34:40,220 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:35:23,450 - WARNING - No reviews found for property 1487704675258849352
+2025-09-28 14:35:23,604 - INFO - Progress: 47 successful, 40 failed
+2025-09-28 14:35:24,616 - INFO - 
+--- Processing Listing 88/384: 39147633 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:35:24,616 - INFO - ====== WebDriver manager ======
+2025-09-28 14:35:25,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:35:25,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:35:25,742 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:36:17,053 - INFO - Collected 26 reviews for property 39147633
+2025-09-28 14:36:17,200 - INFO - Progress: 48 successful, 40 failed
+2025-09-28 14:36:18,211 - INFO - 
+--- Processing Listing 89/384: 1479734894225502263 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:36:18,212 - INFO - ====== WebDriver manager ======
+2025-09-28 14:36:18,752 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:36:19,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:36:19,368 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:37:02,752 - WARNING - No reviews found for property 1479734894225502263
+2025-09-28 14:37:02,888 - INFO - Progress: 48 successful, 41 failed
+2025-09-28 14:37:03,900 - INFO - 
+--- Processing Listing 90/384: 52972364 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:37:03,901 - INFO - ====== WebDriver manager ======
+2025-09-28 14:37:04,415 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:37:04,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:37:05,018 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:37:52,235 - INFO - Collected 16 reviews for property 52972364
+2025-09-28 14:37:52,381 - INFO - Progress: 49 successful, 41 failed
+2025-09-28 14:37:53,392 - INFO - 
+--- Processing Listing 91/384: 1202174603719891473 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:37:53,393 - INFO - ====== WebDriver manager ======
+2025-09-28 14:37:53,924 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:37:54,204 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:37:54,522 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:38:37,789 - WARNING - No reviews found for property 1202174603719891473
+2025-09-28 14:38:37,919 - INFO - Progress: 49 successful, 42 failed
+2025-09-28 14:38:38,930 - INFO - 
+--- Processing Listing 92/384: 54097898 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:38:38,931 - INFO - ====== WebDriver manager ======
+2025-09-28 14:38:39,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:38:39,771 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:38:40,089 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:39:33,520 - INFO - Collected 34 reviews for property 54097898
+2025-09-28 14:39:33,664 - INFO - Progress: 50 successful, 42 failed
+2025-09-28 14:39:34,675 - INFO - 
+--- Processing Listing 93/384: 1459574846973763484 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:39:34,675 - INFO - ====== WebDriver manager ======
+2025-09-28 14:39:35,213 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:39:35,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:39:35,820 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:40:18,777 - WARNING - No reviews found for property 1459574846973763484
+2025-09-28 14:40:18,921 - INFO - Progress: 50 successful, 43 failed
+2025-09-28 14:40:19,928 - INFO - 
+--- Processing Listing 94/384: 1493685405784328987 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:40:19,928 - INFO - ====== WebDriver manager ======
+2025-09-28 14:40:20,467 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:40:20,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:40:21,071 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:41:05,115 - WARNING - No reviews found for property 1493685405784328987
+2025-09-28 14:41:05,257 - INFO - Progress: 50 successful, 44 failed
+2025-09-28 14:41:06,263 - INFO - 
+--- Processing Listing 95/384: 1379834995481127007 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:41:06,263 - INFO - ====== WebDriver manager ======
+2025-09-28 14:41:06,793 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:41:07,079 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:41:07,392 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:41:52,615 - INFO - Collected 8 reviews for property 1379834995481127007
+2025-09-28 14:41:52,750 - INFO - Progress: 51 successful, 44 failed
+2025-09-28 14:41:53,756 - INFO - 
+--- Processing Listing 96/384: 1474646122938603040 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:41:53,757 - INFO - ====== WebDriver manager ======
+2025-09-28 14:41:54,292 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:41:54,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:41:54,897 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:42:38,060 - WARNING - No reviews found for property 1474646122938603040
+2025-09-28 14:42:38,197 - INFO - Progress: 51 successful, 45 failed
+2025-09-28 14:42:39,203 - INFO - 
+--- Processing Listing 97/384: 905782288530363881 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:42:39,203 - INFO - ====== WebDriver manager ======
+2025-09-28 14:42:39,723 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:42:40,007 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:42:40,323 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:43:25,221 - INFO - Collected 14 reviews for property 905782288530363881
+2025-09-28 14:43:25,342 - INFO - Progress: 52 successful, 45 failed
+2025-09-28 14:43:26,348 - INFO - 
+--- Processing Listing 98/384: 824619345188955470 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:43:26,349 - INFO - ====== WebDriver manager ======
+2025-09-28 14:43:26,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:43:27,173 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:43:27,491 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:44:12,776 - INFO - Collected 22 reviews for property 824619345188955470
+2025-09-28 14:44:12,899 - INFO - Progress: 53 successful, 45 failed
+2025-09-28 14:44:13,905 - INFO - 
+--- Processing Listing 99/384: 1160146304656401913 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:44:13,906 - INFO - ====== WebDriver manager ======
+2025-09-28 14:44:14,435 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:44:14,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:44:15,048 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:45:00,381 - INFO - Collected 17 reviews for property 1160146304656401913
+2025-09-28 14:45:00,521 - INFO - Progress: 54 successful, 45 failed
+2025-09-28 14:45:01,532 - INFO - 
+--- Processing Listing 100/384: 862227633344454653 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:45:01,533 - INFO - ====== WebDriver manager ======
+2025-09-28 14:45:02,069 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:45:02,387 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:45:02,710 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:45:36,950 - INFO - Collected 37 reviews for property 862227633344454653
+2025-09-28 14:45:37,075 - INFO - Progress: 55 successful, 45 failed
+2025-09-28 14:45:38,086 - INFO - 
+--- Processing Listing 101/384: 1247090541374962399 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:45:38,087 - INFO - ====== WebDriver manager ======
+2025-09-28 14:45:38,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:45:38,980 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:45:39,329 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:46:22,628 - WARNING - No reviews found for property 1247090541374962399
+2025-09-28 14:46:22,773 - INFO - Progress: 55 successful, 46 failed
+2025-09-28 14:46:23,785 - INFO - 
+--- Processing Listing 102/384: 1343381049898562423 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:46:23,785 - INFO - ====== WebDriver manager ======
+2025-09-28 14:46:24,246 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:46:24,538 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:46:24,900 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:47:08,952 - WARNING - No reviews found for property 1343381049898562423
+2025-09-28 14:47:09,101 - INFO - Progress: 55 successful, 47 failed
+2025-09-28 14:47:10,113 - INFO - 
+--- Processing Listing 103/384: 1150629009068149115 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:47:10,114 - INFO - ====== WebDriver manager ======
+2025-09-28 14:47:10,658 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:47:10,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:47:11,293 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:47:54,664 - WARNING - No reviews found for property 1150629009068149115
+2025-09-28 14:47:54,810 - INFO - Progress: 55 successful, 48 failed
+2025-09-28 14:47:55,821 - INFO - 
+--- Processing Listing 104/384: 828744449209097283 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:47:55,822 - INFO - ====== WebDriver manager ======
+2025-09-28 14:47:56,390 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:47:56,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:47:57,022 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:48:43,357 - INFO - Collected 20 reviews for property 828744449209097283
+2025-09-28 14:48:43,504 - INFO - Progress: 56 successful, 48 failed
+2025-09-28 14:48:44,516 - INFO - 
+--- Processing Listing 105/384: 1257008670757612394 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:48:44,517 - INFO - ====== WebDriver manager ======
+2025-09-28 14:48:45,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:48:45,423 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:48:45,740 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:49:29,440 - WARNING - No reviews found for property 1257008670757612394
+2025-09-28 14:49:29,584 - INFO - Progress: 56 successful, 49 failed
+2025-09-28 14:49:30,595 - INFO - 
+--- Processing Listing 106/384: 42695237 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:49:30,595 - INFO - ====== WebDriver manager ======
+2025-09-28 14:49:31,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:49:31,425 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:49:31,739 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:50:06,652 - INFO - Collected 36 reviews for property 42695237
+2025-09-28 14:50:06,776 - INFO - Progress: 57 successful, 49 failed
+2025-09-28 14:50:07,788 - INFO - 
+--- Processing Listing 107/384: 1387117026506192562 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:50:07,789 - INFO - ====== WebDriver manager ======
+2025-09-28 14:50:08,311 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:50:08,603 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:50:08,922 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:50:53,736 - WARNING - No reviews found for property 1387117026506192562
+2025-09-28 14:50:53,888 - INFO - Progress: 57 successful, 50 failed
+2025-09-28 14:50:54,900 - INFO - 
+--- Processing Listing 108/384: 1012411924695902882 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:50:54,900 - INFO - ====== WebDriver manager ======
+2025-09-28 14:50:55,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:50:55,736 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:50:56,046 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:53:25,993 - INFO - Collected 24 reviews for property 1012411924695902882
+2025-09-28 14:53:26,154 - INFO - Progress: 58 successful, 50 failed
+2025-09-28 14:53:27,161 - INFO - 
+--- Processing Listing 109/384: 1344204565871874009 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:53:27,162 - INFO - ====== WebDriver manager ======
+2025-09-28 14:53:27,573 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:53:27,859 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:53:28,240 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:53:52,504 - WARNING - No reviews found for property 1344204565871874009
+2025-09-28 14:53:52,632 - INFO - Progress: 58 successful, 51 failed
+2025-09-28 14:53:53,638 - INFO - 
+--- Processing Listing 110/384: 1012411924695902882 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:53:53,639 - INFO - ====== WebDriver manager ======
+2025-09-28 14:53:54,152 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:53:54,460 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:53:54,799 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:54:45,007 - INFO - Collected 27 reviews for property 1012411924695902882
+2025-09-28 14:54:45,150 - INFO - Progress: 59 successful, 51 failed
+2025-09-28 14:54:46,157 - INFO - 
+--- Processing Listing 111/384: 1423228382657566586 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:54:46,158 - INFO - ====== WebDriver manager ======
+2025-09-28 14:54:46,681 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:54:46,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:54:47,299 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:55:32,240 - WARNING - No reviews found for property 1423228382657566586
+2025-09-28 14:55:32,384 - INFO - Progress: 59 successful, 52 failed
+2025-09-28 14:55:33,390 - INFO - 
+--- Processing Listing 112/384: 1296779419776933952 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:55:33,391 - INFO - ====== WebDriver manager ======
+2025-09-28 14:55:33,922 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:55:34,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:55:34,529 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:56:02,127 - INFO - Collected 11 reviews for property 1296779419776933952
+2025-09-28 14:56:02,248 - INFO - Progress: 60 successful, 52 failed
+2025-09-28 14:56:03,253 - INFO - 
+--- Processing Listing 113/384: 50895364 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:56:03,254 - INFO - ====== WebDriver manager ======
+2025-09-28 14:56:03,730 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:56:04,020 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:56:04,340 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:56:37,703 - INFO - Collected 25 reviews for property 50895364
+2025-09-28 14:56:37,823 - INFO - Progress: 61 successful, 52 failed
+2025-09-28 14:56:38,834 - INFO - 
+--- Processing Listing 114/384: 1334129360663600627 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:56:38,835 - INFO - ====== WebDriver manager ======
+2025-09-28 14:56:39,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:56:39,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:56:39,970 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:57:23,047 - WARNING - No reviews found for property 1334129360663600627
+2025-09-28 14:57:23,191 - INFO - Progress: 61 successful, 53 failed
+2025-09-28 14:57:24,203 - INFO - 
+--- Processing Listing 115/384: 1359435952060002630 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:57:24,203 - INFO - ====== WebDriver manager ======
+2025-09-28 14:57:24,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:57:25,050 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:57:25,367 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:58:10,406 - WARNING - No reviews found for property 1359435952060002630
+2025-09-28 14:58:10,564 - INFO - Progress: 61 successful, 54 failed
+2025-09-28 14:58:11,576 - INFO - 
+--- Processing Listing 116/384: 1386378142836884217 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:58:11,577 - INFO - ====== WebDriver manager ======
+2025-09-28 14:58:12,107 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:58:12,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:58:12,863 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:58:56,560 - WARNING - No reviews found for property 1386378142836884217
+2025-09-28 14:58:56,709 - INFO - Progress: 61 successful, 55 failed
+2025-09-28 14:58:57,720 - INFO - 
+--- Processing Listing 117/384: 1443955359573227437 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:58:57,721 - INFO - ====== WebDriver manager ======
+2025-09-28 14:58:58,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:58:58,567 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:58:58,885 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 14:59:42,773 - WARNING - No reviews found for property 1443955359573227437
+2025-09-28 14:59:42,922 - INFO - Progress: 61 successful, 56 failed
+2025-09-28 14:59:43,933 - INFO - 
+--- Processing Listing 118/384: 17272210 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 14:59:43,934 - INFO - ====== WebDriver manager ======
+2025-09-28 14:59:44,472 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:59:44,764 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 14:59:45,081 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:00:20,239 - INFO - Collected 57 reviews for property 17272210
+2025-09-28 15:00:20,370 - INFO - Progress: 62 successful, 56 failed
+2025-09-28 15:00:21,381 - INFO - 
+--- Processing Listing 119/384: 710426934135648246 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:00:21,382 - INFO - ====== WebDriver manager ======
+2025-09-28 15:00:21,884 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:00:22,172 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:00:22,515 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:01:13,363 - INFO - Collected 31 reviews for property 710426934135648246
+2025-09-28 15:01:13,513 - INFO - Progress: 63 successful, 56 failed
+2025-09-28 15:01:14,524 - INFO - 
+--- Processing Listing 120/384: 683198784409768400 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:01:14,525 - INFO - ====== WebDriver manager ======
+2025-09-28 15:01:15,069 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:01:15,355 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:01:15,670 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:01:42,813 - INFO - Collected 15 reviews for property 683198784409768400
+2025-09-28 15:01:42,938 - INFO - Progress: 64 successful, 56 failed
+2025-09-28 15:01:43,950 - INFO - 
+--- Processing Listing 121/384: 951572768215612154 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:01:43,951 - INFO - ====== WebDriver manager ======
+2025-09-28 15:01:44,495 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:01:44,787 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:01:45,108 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:02:31,284 - INFO - Collected 21 reviews for property 951572768215612154
+2025-09-28 15:02:31,426 - INFO - Progress: 65 successful, 56 failed
+2025-09-28 15:02:32,437 - INFO - 
+--- Processing Listing 122/384: 598537293841363191 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:02:32,438 - INFO - ====== WebDriver manager ======
+2025-09-28 15:02:32,971 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:02:33,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:02:33,578 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:03:06,174 - INFO - Collected 42 reviews for property 598537293841363191
+2025-09-28 15:03:06,333 - INFO - Progress: 66 successful, 56 failed
+2025-09-28 15:03:07,340 - INFO - 
+--- Processing Listing 123/384: 52560653 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:03:07,341 - INFO - ====== WebDriver manager ======
+2025-09-28 15:03:07,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:03:08,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:03:08,351 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:03:42,496 - INFO - Collected 33 reviews for property 52560653
+2025-09-28 15:03:42,622 - INFO - Progress: 67 successful, 56 failed
+2025-09-28 15:03:43,629 - INFO - 
+--- Processing Listing 124/384: 50554270 in Kisumu County
+_
+_
+Guest favorite
+Guest favorite
+Apartment in Kisumu
+KSh 3 ---
+2025-09-28 15:03:43,630 - INFO - ====== WebDriver manager ======
+2025-09-28 15:03:44,141 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:03:44,426 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-28 15:03:44,738 - INFO - Driver [/Users/brianrono/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/chromedriver] found in cache
+2025-09-28 15:04:05,551 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/4b940be44b686cb08f071acca2ba4c9c
+2025-09-28 15:04:05,554 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10836d890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4b940be44b686cb08f071acca2ba4c9c
+2025-09-28 15:04:05,557 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10836e910>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4b940be44b686cb08f071acca2ba4c9c
